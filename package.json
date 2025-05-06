@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "expo": "~52.0.46",
-    "expo-location": "~18.0.10",
+    "expo-location": "~18.1.4",
     "expo-status-bar": "~2.2.3",
     "react": "17.0.1",
     "react-dom": "17.0.1",

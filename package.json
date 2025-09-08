@@ -10,7 +10,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "expo": "~53.0.19",
+    "expo": "~53.0.22",
     "expo-location": "~18.1.6",
     "expo-status-bar": "~2.2.3",
     "react": "17.0.1",

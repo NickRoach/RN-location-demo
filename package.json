@@ -12,7 +12,7 @@
   "dependencies": {
     "expo": "~56.0.12",
     "expo-location": "~56.0.18",
-    "expo-status-bar": "~56.0.4",
+    "expo-status-bar": "~57.0.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-native": "0.64.3",
